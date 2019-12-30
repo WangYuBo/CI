@@ -27,8 +27,10 @@
 
 ## 其他国家文化产业状况如何？
 
-## 影响文化产业发展的核心变量／关键变量有哪些？
+## 影响文化产业管理发展的核心变量／关键变量有哪些？
 
+## 学术角度：文化产业现状如何？
+[知网文化产业指数](https://kns.cnki.net/kns/brief/Default_Result.aspx?code=CIDX&kw=%e6%96%87%e5%8c%96%e4%ba%a7%e4%b8%9a%e7%ae%a1%e7%90%86&korder=&sel=1)
 
 ## chglog
 -- 
